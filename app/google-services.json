@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287143458789",
+    "project_id": "fir-sample-dac4b",
+    "storage_bucket": "fir-sample-dac4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287143458789:android:32fd48830fa6aca069610c",
+        "android_client_info": {
+          "package_name": "com.swkim.firebase_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287143458789-qa6q75c4gn8ifsstfiq7abc2inujfihe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sV566qCkIrgRezrypHhBV54lMbs7rMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287143458789-qa6q75c4gn8ifsstfiq7abc2inujfihe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
